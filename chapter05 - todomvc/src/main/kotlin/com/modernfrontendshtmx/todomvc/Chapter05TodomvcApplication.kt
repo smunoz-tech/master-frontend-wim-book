@@ -1,11 +1,11 @@
-package com.modernfrontendshtmx.chapter4
+package com.modernfrontendshtmx.todomvc
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class Chapter4Application
+class Chapter05TodomvcApplication
 
 fun main(args: Array<String>) {
-    runApplication<Chapter4Application>(*args)
+    runApplication<Chapter05TodomvcApplication>(*args)
 }

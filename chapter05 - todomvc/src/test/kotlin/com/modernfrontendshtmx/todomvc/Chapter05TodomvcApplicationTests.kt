@@ -1,10 +1,10 @@
-package com.modernfrontendshtmx.chapter4
+package com.modernfrontendshtmx.todomvc
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class Chapter4ApplicationTests {
+class Chapter05TodomvcApplicationTests {
 
     @Test
     fun contextLoads() {
